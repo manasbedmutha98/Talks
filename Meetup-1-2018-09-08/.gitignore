@@ -1,0 +1,11 @@
+# PPT files
+
+*.ppt
+
+#PPTX files
+
+*.pptx
+
+#System files
+
+.DS_store
